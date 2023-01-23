@@ -16,4 +16,4 @@
 - Kelas : TIF RM 21
 
 ## Visit Website
-Link <a href="https://misbadev.000webhostapp.com/UAS_PEMWEB1/">MDev - Sofa</a>
+Link <a href="https://misbadev.000webhostapp.com/UAS_PEMWEB1/" target="_blank">MDev - Sofa</a>
